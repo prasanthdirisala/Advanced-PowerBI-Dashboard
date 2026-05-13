@@ -73,7 +73,7 @@ The report is built using Microsoft Power BI and includes multiple pages with dr
 ---
 
 ## File Information
-- **Project File:** `AdvancedTechniques (1).pbix`
+- **Project File:** `AdvancedTechniques(1).zip
 - **Tool Used:** Microsoft Power BI Desktop
 
 ---
@@ -100,7 +100,7 @@ The main objective of this project is to create an advanced and interactive Powe
 ---
 
 ## Author
-**Prasanth Dirisala**
+**Dirisala Naga Bala Prasanth**
 
 - B.Tech ECE Graduate
 - Aspiring Data Analyst / Data Scientist
