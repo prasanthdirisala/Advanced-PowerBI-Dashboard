@@ -107,12 +107,3 @@ The main objective of this project is to create an advanced and interactive Powe
 - Skilled in Python, SQL, Power BI, Excel, and Data Analytics
 
 ---
-
-## GitHub Repository
-You can upload this project along with screenshots of the dashboard for better presentation.
-
-Recommended files to upload:
-- `.pbix` file
-- Dashboard screenshots
-- `README.md`
-- Dataset (if shareable)
